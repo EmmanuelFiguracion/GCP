@@ -5,3 +5,6 @@ Demo Codes will be shared here , srticlty for educational purpose.
 2. Codes included with inline developer comments at each section of the code.
 
 Note for users:  If you have to try these codes , please change GCP_project, Big Query dataset/tables, GCS bucket/Folder ..etc accordingly as per your needs.
+
+Hello there!
+
